@@ -12,8 +12,8 @@ se podra tocar tambien con el teclado del ordenador
 - [x] mostrar una web con las te4clas blancas(sin sonido)
 - [x] permitir que el usuario pulse en teclas y suene
 - [x] añadir las teclas negras
-- [] permitir que el usuario toque el teclado con el teclado del ordenador
+- [x] permitir que el usuario toque el teclado con el teclado del ordenador
 - [] incorporar sonidos reales
-- [] refactorizar
-- [] testear
+- [x] refactorizar
+- [x] testear
 - [x] deployar
